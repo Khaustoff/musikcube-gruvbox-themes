@@ -17,8 +17,8 @@ Created from scratch, combined theme gruvbox light with gruvbox material light:
 * Installation
 It's pretty simple:
 #+begin_src sh
-  git clone git@github.com:Khaustoff/musikcube-update-gruvbox-themes.git
-  cp ./musikcube-update-gruvbox-themes/themes/* ~/.config/musikcube/themes/
+  git clone git@github.com:Khaustoff/musikcube-gruvbox-themes.git
+  cp ./musikcube-gruvbox-themes/themes/* ~/.config/musikcube/themes/
 #+end_src
 
 And open musikcube. In the settings, in the "color theme" section, select the desired theme.
